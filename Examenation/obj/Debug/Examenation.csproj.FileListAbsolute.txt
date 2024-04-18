@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\Антонов\Examenation\bin\Debug\Examenation.exe.config
+C:\Users\student\Desktop\Антонов\Examenation\bin\Debug\Examenation.exe
+C:\Users\student\Desktop\Антонов\Examenation\bin\Debug\Examenation.pdb
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation_MarkupCompile.cache
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation_MarkupCompile.lref
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.g.resources
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.Properties.Resources.resources
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.exe
+C:\Users\student\Desktop\Антонов\Examenation\obj\Debug\Examenation.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Examenation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Examenation"
+        mc:Ignorable="d"
+        Title="Главное окно" Height="550" Width="800">
+    <Grid>
+        <Canvas>
+            <TextBlock Text="Введите объем топлива" FontSize="20" Canvas.Left="30" Canvas.Top="19"/>
+            <TextBox FontSize="20" Canvas.Left="30" Canvas.Top="49" Width="250" x:Name="txbObiem"/>
+            <TextBlock Text="Введите плотность топлива" FontSize="20" Canvas.Left="28" Canvas.Top="92"/>
+            <TextBox FontSize="20" Canvas.Left="30" Canvas.Top="133" Width="250" x:Name="txbPlotnost"/>
+
+            <Button Content="Рассчитать массу топлива" FontSize="20" x:Name="btnContinue" Canvas.Left="39" Canvas.Top="185" Click="btnContinue_Click" />
+
+            <TextBlock Text="Введите объем хранилища" FontSize="20" Canvas.Left="412" Canvas.Top="24"/>
+            <TextBox FontSize="20" Canvas.Left="412" Canvas.Top="63" Width="250" x:Name="txbVsegoObiem"/>
+            <TextBlock Text="Введите текущий запас топлива" FontSize="20" Canvas.Left="412" Canvas.Top="105"/>
+            <TextBox FontSize="20" Canvas.Left="414" Canvas.Top="147" Width="250" x:Name="txbTekZapas"/>
+
+            <Button Content="Рассчитать доступный объем" FontSize="20" x:Name="btnContinueStorage" Canvas.Left="414" Canvas.Top="186" Click="btnContinueStorage_Click" />
+
+            <TextBlock Text="Введите объем топлива" FontSize="20" Canvas.Left="224" Canvas.Top="268"/>
+            <TextBox FontSize="20" Canvas.Left="224" Canvas.Top="318" Width="250" x:Name="txbOpredObiem"/>
+            <ComboBox x:Name="cmbFunction" Canvas.Left="224" Canvas.Top="352" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Height="25">
+                <ComboBoxItem Content="Добавление" FontSize="20"/>
+                <ComboBoxItem Content="Извлечение" FontSize="20"/>
+            </ComboBox>
+
+            <Button Content="Выполнить" FontSize="20" x:Name="btnContinueAzs" Canvas.Left="224" Canvas.Top="400" Click="btnContinueAzs_Click" />
+
+        </Canvas>
+    </Grid>
+</Window>
